@@ -11,7 +11,8 @@ Pokwane Harvest Hope Community Network is a Non-Profit Organization (NPO) initia
 This repository contains the foundational multi-page website developed for Part 1 using semantic HTML5 structures.
 
 ## Repository & Folder Structure
-'''text
+
+```text
 WEDE5020_PoE_Part1/
 ├── index.html          # Homepage featuring mission overview and impact areas
 ├── about.html          # About Us page detailing community history and core values
@@ -24,4 +25,3 @@ WEDE5020_PoE_Part1/
 │   └── main.js         # External JavaScript link (Prepared for Part 3)
 ├── images/             # Sourced project assets, photographs, and official logo
 └── documents/          # Research papers and proposal documentation
-'''
