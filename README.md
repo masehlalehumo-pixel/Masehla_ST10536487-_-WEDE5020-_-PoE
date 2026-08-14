@@ -7,6 +7,7 @@
 ## Project Overview
 Pokwane Harvest Hope Community Network is a Non-Profit Organization (NPO) initiative created to address household food insecurity and support smallholder farmers in rural Limpopo, South Africa. 
 
+
 This repository contains the foundational multi-page website developed for Part 1 using semantic HTML5 structures.
 
 ## Repository & Folder Structure
