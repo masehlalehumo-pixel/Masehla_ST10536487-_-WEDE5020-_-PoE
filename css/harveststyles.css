@@ -37,7 +37,6 @@ body {
     flex-direction: column;
 }
 
-/*Typography & Headings*/
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-heading);
     color: var(--primary-forest);
@@ -46,7 +45,6 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 0.25rem;
 }
 
-/*Heading Sizes using CSS Clamp*/
 h1 { font-size: 2.25rem; }
 h2{
     font-size: 1.75rem;
@@ -60,7 +58,6 @@ p {
     margin-bottom: 1rem;
 }
 
-/*Navigation & Header*/
 header, .navbar {
     background-color: var(--primary-forest);
     padding: 1rem 2rem;
@@ -108,7 +105,6 @@ nav ul {
     letter-spacing: 0.5px;
 }
 
-/*Navigation States & Touch Accessibility*/
 nav a {
    color: #ffffff;
    font-family: var(--font-heading);
@@ -139,7 +135,6 @@ nav a.active {
     font-weight: 700;
 }
 
-/*Layout & Grid system*/
 main { 
     flex: 1;
     max-width: 1200px;
@@ -160,7 +155,6 @@ main {
     margin-top: 1.5rem;
 }
 
-/*UI Components*/
 article.card, 
 .card-item {
     background-color: var(--card-background);
@@ -185,7 +179,6 @@ img {
     object-fit: cover;
 }
 
-/*Buttons*/
 .btn, .btn-primary, .submit-btn {
     display: inline-block;
     background-color: var(--secondary-gold);
@@ -211,7 +204,6 @@ img {
     outline-offset: 2px;
 }
 
-/*Form & Inputs*/
 fieldset{
     border: 1px solid var(--secondary-gold);
     border-radius: 6px;
@@ -237,7 +229,6 @@ input[type="text"], input[type="email"], input[type="tel"], select, textarea {
     font-family: var(--font-body);
 }
 
-/*Footer Section*/
 footer {
     background-color: var(--primary-forest);
     color: var(--neutral-offwhite);
@@ -251,7 +242,6 @@ footer a {
     color: var(--secondary-gold);
 }
 
-/*Responsive Design*/
 @media screen and (max-width: 900px) {
     header, .navbar {
         flex-direction: column;
