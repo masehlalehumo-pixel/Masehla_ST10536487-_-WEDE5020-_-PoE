@@ -33,11 +33,11 @@ Accessibility (a11y): Clear focus indicator rings (`outline-offset`), legible ty
 ## Repository & Folder Structure
 text
 WEDE5020_PoE_Part1/
-├── index.html          # Homepage featuring mission overview and impact areas
-├── about.html          # About Us page detailing community history and core values
-├── services.html       # Services & Projects page highlighting agricultural support
-├── enquiry.html        # Interactive community enquiry and volunteer intake form
-├── contact.html        # Direct contact details and operational hub location
+ * **index.html**          # Homepage featuring mission overview and impact areas
+* **about.html**          # About Us page detailing community history and core values
+* **services.html**       # Services & Projects page highlighting agricultural support
+ * **enquiry.html**       # Interactive community enquiry and volunteer intake form
+* **contact.html**        # Direct contact details and operational hub location
 ├── css/
 │   └── harveststyle.css    # Central stylesheet with RWD grid and variable rules.  
 ├── js/
