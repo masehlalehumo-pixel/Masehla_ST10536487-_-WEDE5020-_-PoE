@@ -46,6 +46,12 @@ WEDE5020_PoE_Part1/
 
 # REFERENCE LIST
 Reference List
- * Bootstrap (2026) Bootstrap v5.3 Documentation. Available at: https://getbootstrap.com/docs/5.3/getting-started/introduction/ (Accessed: 18 September 2026).Harvest Hope South Africa (2026) Our Work - Sustainable  * Agriculture and Community Development. Available at: https://harvesthope.co.za/?page_id=31 (Accessed: 18 September 2026).Harvest SA (2026) The Original Family Business. Available at: * https://www.harvestsa.co.za/2026/04/10/the-original-family-business/ (Accessed: 18 September 2026).Home Harvest Network (2026) Home Harvest Network - Cultivating Community Resilience. Available at: * https://www.homeharvestnetwork.co.za/ (Accessed: 18 September 2026).Limpopo Department of Agriculture and Rural Development (2021) Vhembe District Agricultural Production Drivers Study. Polokwane: Limpopo Provincial * Government.SA Harvest (2026) School Holidays Shouldn't Mean Hunger Campaign. Available at: https://saharvest.org/campaign/school-holidays-shouldnt-mean-hunger/ (Accessed: 18 September 2026).Sekhukhune District * Municipality (2022) Sekhukhune Spatial Development Framework (SDF) Review. Groblersdal: Sekhukhune District Municipality.
+ * Bootstrap, 2026. Bootstrap v5.3 Documentation. Available at: https://getbootstrap.com/docs/5.3/getting-started/introduction/ (Accessed: 15 September 2026).
+ * Harvest SA, 2026. The Original Family Business. Available at: https://www.harvestsa.co.za/2026/04/10/the-original-family-business/ (Accessed: 17 September 2026).
+ * Harvest Hope South Africa, 2026. Our Work - Sustainable Agriculture and Community Development. Available at: https://harvesthope.co.za/?page_id=31 (Accessed: 16 September 2026).
+ * Home Harvest Network, 2026. Home Harvest Network - Cultivating Community Resilience. Available at: https://www.homeharvestnetwork.co.za/ (Accessed: 17 September 2026).
+ * Limpopo Department of Agriculture and Rural Development, 2021. Vhembe District Agricultural Production Drivers Study. Polokwane: Limpopo Provincial Government.
+ * SA Harvest, 2026. School Holidays Shouldn't Mean Hunger Campaign. Available at: https://saharvest.org/campaign/school-holidays-shouldnt-mean-hunger/ (Accessed: 17 September 2026).
+ * Sekhukhune District Municipality, 2022. Sekhukhune Spatial Development Framework (SDF) Review. Groblersdal: Sekhukhune District Municipality.
 
 
