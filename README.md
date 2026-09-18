@@ -40,9 +40,8 @@ WEDE5020_PoE_Part1/
 * **contact.html**        # Direct contact details and operational hub location
 
 * **css/**
-│   └── harveststyle.css    # Central stylesheet with RWD grid and variable rules.  
-
+   harveststyle.css    # Central stylesheet with RWD grid and variable rules.  
 * **js/**
-│   └── main.js         # External JavaScript link (Prepared for Part 3)
+    main.js        
 ├── images/             # Sourced project assets, photographs, and official logo
 └── documents/          # Research papers and proposal documentation
