@@ -41,7 +41,8 @@ WEDE5020_PoE_Part1/
 
 * **css/**
 │   └── harveststyle.css    # Central stylesheet with RWD grid and variable rules.  
-├── js/
+
+  * **js/**
 │   └── main.js         # External JavaScript link (Prepared for Part 3)
 ├── images/             # Sourced project assets, photographs, and official logo
 └── documents/          # Research papers and proposal documentation
