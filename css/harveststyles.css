@@ -1,5 +1,4 @@
 :root {
-    /*Colour Palette*/
     --primary-forest: #1b4332;
     --secondary-gold: #e9c46a;
     --neutral-offwhite: #f8f9fa;
@@ -287,7 +286,6 @@ footer a {
     }
 }
 
-/*Social Media Icons*/
 .social-icon {
     display: inline-flex;
     align-items: center;
