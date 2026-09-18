@@ -38,7 +38,8 @@ WEDE5020_PoE_Part1/
 * **services.html**       # Services & Projects page highlighting agricultural support
  * **enquiry.html**       # Interactive community enquiry and volunteer intake form
 * **contact.html**        # Direct contact details and operational hub location
-├── css/
+
+* **css/**
 │   └── harveststyle.css    # Central stylesheet with RWD grid and variable rules.  
 ├── js/
 │   └── main.js         # External JavaScript link (Prepared for Part 3)
