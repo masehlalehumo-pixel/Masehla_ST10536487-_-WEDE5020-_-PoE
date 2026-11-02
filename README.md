@@ -55,3 +55,27 @@ Reference List
  * Sekhukhune District Municipality, 2022. Sekhukhune Spatial Development Framework (SDF) Review. Groblersdal: Sekhukhune District Municipality.
 
 
+
+
+---
+
+## Project Documentation & Changelog — Part 3
+
+### 1. Overview & Enhancements
+In Part 3, the Pokwane Harvest Hope Community Network web application was upgraded with robust client-side form validation, dynamic error feedback, interactive user guidance, and full GitHub Pages deployment readiness.
+
+### 2. Detailed Technical Changelog
+
+* **Form Validation (`js/validation.js`)**: Implemented a `DOMContentLoaded` listener, used `event.preventDefault()` to intercept submissions, applied `.trim()` checks on inputs, and enforced dropdown selection validation.
+* **Dynamic Error & Success States**: Configured inline `<small>` error containers with warning styling and a dynamic success alert (`successNotice`) that displays a confirmation message and resets the form upon valid submission.
+* **Version Control & Deployment**: Maintained structured updates via branch commits (`WEDE5020_Part2`) and deployed the project live via GitHub Pages.
+
+
+## these are a more detailed explanation of the changes named above and other small changes
+
+* **Form Element & Class Structure (`enquiry.html`)**: Configured the main enquiry form with the specific `.enquiry-form` class selector and utilized precise element IDs—such as `fullname`, `email`, `phone`, `message`, and the select dropdown assigned to `id="role"`—to ensure accurate DOM querying.
+* **Form Validation Logic (`js/validation.js`)**: Implemented a `DOMContentLoaded` listener, used `event.preventDefault()` to intercept submissions, applied `.trim()` checks on text inputs, and added validation checks for the `role` dropdown to ensure a valid selection is made.
+* **Dynamic Error & Success States**: Configured inline `<small>` error containers with custom warning styling and a dynamic success alert (`successNotice`) that displays a confirmation message and resets the form upon valid submission.
+* **Troubleshooting & Development Adjustments**: 
+  * *File Naming & Script Linking:* Initially evaluated file naming conventions and streamlined script paths to `js/validation.js` (instead of temporary or generic naming) to resolve reference errors and ensure seamless integration with `enquiry.html`.
+  * *Git Conflict Resolution:* Handled remote branch synchronization and rebase steps to successfully push updates without cluttering repository history.
