@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", function () {
             }
 
             // Check if Phone number is valid
-            const phoneInput = document.getElementById("pnone");
+            const phoneInput = document.getElementById("phone");
             const phoneError = document.getElementById("phoneError");
             if (phoneInput.value.trim() === "") {
                 phoneError.textContent = "Phone number is required";
