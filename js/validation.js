@@ -58,7 +58,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 messageError.textContent = "";
             }
 
-            // Success Message/ form submitted successfully confirmation
+            // Success Message or form submitted successfully confirmation message
             const successNotice = document.getElementById("successNotice");
 
             if (isValid) {
